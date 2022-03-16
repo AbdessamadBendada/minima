@@ -1,4 +1,4 @@
 <?php
 
 
-echo "this is us beeecth";
+echo "this is us ";
